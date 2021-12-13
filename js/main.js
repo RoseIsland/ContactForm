@@ -40,7 +40,7 @@
         e.preventDefault();
       
         $.ajax({
-            url: "https://script.google.com/macros/s/AKfycbxQPdjPoiyWBTTy7bJbDH_ZKxwgQEKOwb1phZ9dGBZlyOlTQw9eQCwfEzAwQxVFOOWuIg/exec",
+            url: "https://script.google.com/macros/s/AKfycbzLAV7SQjsvSEESUX9scmZXdYXwH5-Sn0KNRHx9nmEqI8TgT_e9gNGpOrUESZR5d0TolA/exec",
             method: "POST",
             dataType: "json",
             data: $(".contact1-form").serialize(),
